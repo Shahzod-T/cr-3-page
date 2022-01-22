@@ -1,41 +1,34 @@
-.hero{
+.hero__inner{
     
-    width: 1280px;
-    margin: 0 auto;
-    padding: 0 20px;
-    margin-bottom: 168px;
-    background-image: url(../images/Bitmap.png);
-    background-repeat: no-repeat;
+    background-image: url(../../images/Bitmap.png);
+    margin-bottom: 200px;
 }
 
 
-
-
-
-.hero__inner__title{
-    
-    
-    padding-top: 137px;
-    width: 238px;
-    margin-bottom: 24px;
+.hero__title{
+    width: 557px;
     font-weight: 900;
-    font-size: 40px;
-    line-height: 48px;
+    font-size: 72px;
+    line-height: 72px;
     color: #FEFCF7;
-    padding-left: 38px;
-    
-    
-    
+    margin-bottom: 32px;
+    padding-left: 86px;
+    padding-top: 170px;
+    font-family: Fraunces;
     
 }
 
 
-.hero__inner__text{
+.hero__text{
     width: 445px;
     font-weight: normal;
     font-size: 16px;
     line-height: 26px;
     color: #FEFCF7;
-    padding-bottom: 137px;
-    padding-left: 38px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    font-family: Barlow;
+    padding-left: 86px;
+    padding-bottom: 70px;
+    
 }

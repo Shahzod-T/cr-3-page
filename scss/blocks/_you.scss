@@ -1,0 +1,232 @@
+.you__inner{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+
+
+.preferences__list{
+    max-width: 255px;
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 0;
+    
+    
+}
+
+.preferences__items{
+    
+    max-width: 255px;
+    margin-bottom: 55px;
+    font-weight: 900;
+    font-size: 24px;
+    color: #333D4B;
+    border-bottom: 1px solid rgb ( 238,237,234, 0.4 ) ;
+    
+    
+    
+}
+
+.preferences__item__spans{
+    max-width: 30px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0E8784;
+    padding-right: 28px;
+}
+
+.preferences__item{
+    
+    margin-bottom: 55px;
+    width: 255px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+    opacity: 0.5;
+    border-bottom: 1px solid  #83888F ;
+    // background: #83888F;
+    // mix-blend-mode: normal;
+    opacity: 0.25;
+    
+}
+
+
+
+
+
+.preferences__itemo{
+    
+    
+    width: 255px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+    opacity: 0.5;
+    border-bottom: 1px solid  #83888F ;
+    // background: #83888F;
+    // mix-blend-mode: normal;
+    opacity: 0.25;
+    
+}
+
+
+// .preferences__item + .preferences__item{
+    
+    //     // margin-bottom: 49px;
+    
+    // }
+    
+    
+    
+    .preferences__item__span{
+        max-width: 30px;
+        padding-right: 28px;
+    }
+    
+    
+    .how__list{
+        width: 730px;
+        padding-left: 0;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    
+    .how__title{
+        max-width: 672px;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 48px;
+        color: #83888F;
+        margin-bottom: 52px;
+    }
+    
+    
+    .how__item{
+        max-width: 228px;
+        background: #F4F1EB;
+        border-radius: 8px;
+        margin-bottom: 88px;
+    }
+    
+    .how_item__title{
+        
+        font-family: Fraunces;
+        max-width: 101px;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 32px;
+        color: #333D4B;
+        padding: 32px 101px 24px 28px;
+        
+    }
+    
+    .how__item__text{
+        
+        font-family: Barlow;
+        
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;
+        color: #333D4B;
+        padding-left: 28px;
+        padding-right: 28px;
+        padding-bottom: 84px;
+        
+        
+    }
+    
+    
+    
+    
+    .you__how__paragraph{
+        display: flex;
+        justify-content: start;
+        max-width: 608px;
+        font-family: Fraunces;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 48px;
+        color: #83888F;
+        margin-bottom: 88px;
+        
+    }
+    
+    .you__how__paragraph ~ .you__how__paragraph{
+        margin-bottom: 88px;
+    }
+    
+    .you__summary{
+        // max-width: 650px;
+        background-color: #282F38;
+        display: flex;
+        justify-content: start;
+        flex-direction: column;
+        margin-bottom: 87px;
+    }
+    
+    
+    .you__summary__text{
+        font-family: Barlow;
+        opacity: 0.15;
+        display: flex;
+        padding-left: 44px;
+        padding-top: 34px;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 26px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        mix-blend-mode: normal;
+        // opacity: 0.5;
+        margin: 0;
+    }
+    
+    
+    .you__summary__paragraph{
+        
+        // max-width: 600px;
+        font-weight: 900;
+        font-size: 24px;
+        line-height: 40px;
+        color: #FFFFFF;
+        margin: 0;
+        padding-bottom: 30px;
+        // padding: 84px 67px;
+        
+    }
+    
+    
+    
+    .you__summary__span{
+        
+        color: #0E8784;
+        
+    }
+    
+    
+    .you__button{
+        
+        
+        padding: 16px 35px  ;
+        font-weight: 900;
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+        color: #FEFCF7;
+        border: none;
+        background: #E2DEDB;
+        border-radius: 6px;
+       margin-left: 500px;
+       margin-bottom: 168px;
+
+
+
+    }
